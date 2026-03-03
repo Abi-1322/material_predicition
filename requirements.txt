@@ -4,3 +4,4 @@ keras
 opencv_python_headless
 gdown
 ipykernel
+scikit-learn
